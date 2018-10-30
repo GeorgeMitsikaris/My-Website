@@ -2,6 +2,5 @@
 
 Some random text for test
 
-This added on update-readme branch
 
-This added locally
+Updates made on master on github before rebase
