@@ -11,3 +11,7 @@ This is going to create conflict with the changes on Github but it resolved
 ## Purpose
 
 The purpose of this file is to provide examples on how to use Git and Github together
+
+## Getting Started
+
+To getting started just `clone` this repository
